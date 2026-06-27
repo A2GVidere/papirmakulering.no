@@ -1,0 +1,4 @@
+Contact: mailto:postmottak.bjorkhaug@a2g.no
+Preferred-Languages: nb
+Canonical: https://papirmakulering.no/.well-known/security.txt
+Expires: 2026-08-31T23:59:00Z
